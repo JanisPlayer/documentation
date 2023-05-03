@@ -78,6 +78,7 @@ Managing a conversation
 -----------------------
 
 You are always moderator in your new conversation. In the participant list you can promote other participants to moderators using the ``...`` menu to the right of their user name, assign them custom permissions or remove them from the conversation.
+Changing permissions of a user that joined a public conversation will also permanently add them to the conversation.
 
 .. image:: images/participant-menu.png
 
